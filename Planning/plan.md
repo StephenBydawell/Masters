@@ -2,7 +2,7 @@
 
 ##Pre-lim to Experiments
 
-- [ ] Heat-Transfer Co-effs calculated
+- [x] Heat-Transfer Co-effs calculated
 - [ ] Heat-Transfer Co-effs optimised to steady-state differentials
 - [ ] Optimise Creep curves
 - [ ] Mesh convergence on creep schedule
